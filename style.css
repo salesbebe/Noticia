@@ -89,16 +89,15 @@ body {
 .segunda-secao h3 {
     color: var(--almost-white);
     font-size: 1.25rem;
-    line-height: 1.5rem;
+    line-height: 1.5 rem;
     font-weight: 800;
     margin-bottom: 0.5rem;
-
 }
 
-.segunda-secao p {
+.segunda-secao {
     color: var(--silver);
     font-size: 0.9375rem;
-    line-height: 0.1625rem;
+    line-height: 1.625rem;
 }
 
 .terceira-secao > div {
